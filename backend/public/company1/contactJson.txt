@@ -1,0 +1,762 @@
+[
+  {
+    "id": "553171247407@s.whatsapp.net",
+    "name": "Gustavo Gama"
+  },
+  {
+    "id": "553193345572@s.whatsapp.net",
+    "name": "Eliete Lordeiro"
+  },
+  {
+    "id": "5511970873580@s.whatsapp.net",
+    "name": "Luiz Workana"
+  },
+  {
+    "id": "553196903902@s.whatsapp.net",
+    "name": "Nn Sei"
+  },
+  {
+    "id": "553193965283@s.whatsapp.net",
+    "name": "Iago"
+  },
+  {
+    "id": "553183423020@s.whatsapp.net",
+    "name": "Taina"
+  },
+  {
+    "id": "5527988280429@s.whatsapp.net",
+    "name": "Julia Matos"
+  },
+  {
+    "id": "553195266596@s.whatsapp.net",
+    "name": "João Pedro"
+  },
+  {
+    "id": "553193733294@s.whatsapp.net",
+    "name": "Clicie"
+  },
+  {
+    "id": "553185662410@s.whatsapp.net",
+    "name": "Júlio"
+  },
+  {
+    "id": "553135952920@s.whatsapp.net",
+    "name": "Hotel"
+  },
+  {
+    "id": "553197549108@s.whatsapp.net",
+    "name": "Bianca"
+  },
+  {
+    "id": "553192905220@s.whatsapp.net",
+    "name": "Ferraz"
+  },
+  {
+    "id": "553183031214@s.whatsapp.net",
+    "name": "Agape Flores"
+  },
+  {
+    "id": "553197759382@s.whatsapp.net",
+    "name": "Alemao "
+  },
+  {
+    "id": "553191366210@s.whatsapp.net",
+    "name": "João Vitor Vieira"
+  },
+  {
+    "id": "553186887685@s.whatsapp.net",
+    "name": "Sirlei"
+  },
+  {
+    "id": "553192835327@s.whatsapp.net",
+    "name": "Pedro Maranhaes Uber"
+  },
+  {
+    "id": "553171623952@s.whatsapp.net",
+    "name": "Willian David"
+  },
+  {
+    "id": "553175921921@s.whatsapp.net",
+    "name": "Diego Ribeiro"
+  },
+  {
+    "id": "553188351004@s.whatsapp.net",
+    "name": "Renato Andrade"
+  },
+  {
+    "id": "553173020971@s.whatsapp.net",
+    "name": "Thiago Martins"
+  },
+  {
+    "id": "553197901100@s.whatsapp.net",
+    "name": "Vitin"
+  },
+  {
+    "id": "553191140224@s.whatsapp.net",
+    "name": "Hamburguer Batata"
+  },
+  {
+    "id": "553197703626@s.whatsapp.net",
+    "name": "Augusto"
+  },
+  {
+    "id": "553193402572@s.whatsapp.net",
+    "name": "Luigi"
+  },
+  {
+    "id": "553199038228@s.whatsapp.net",
+    "name": "Fifi"
+  },
+  {
+    "id": "5514981386516@s.whatsapp.net",
+    "name": "Caio Martins"
+  },
+  {
+    "id": "553199967739@s.whatsapp.net",
+    "name": "TI Gama"
+  },
+  {
+    "id": "553195525518@s.whatsapp.net",
+    "name": "Petrônio"
+  },
+  {
+    "id": "553193340911@s.whatsapp.net",
+    "name": "Gabriel Campos"
+  },
+  {
+    "id": "553171608800@s.whatsapp.net",
+    "name": "Lucas Couto"
+  },
+  {
+    "id": "553199892425@s.whatsapp.net",
+    "name": "Juliana "
+  },
+  {
+    "id": "553183282840@s.whatsapp.net",
+    "name": "Flavio"
+  },
+  {
+    "id": "558893241243@s.whatsapp.net",
+    "name": "lourenco"
+  },
+  {
+    "id": "553192742469@s.whatsapp.net",
+    "name": "Claudinho"
+  },
+  {
+    "id": "5531920022961@s.whatsapp.net",
+    "name": "Vó Lourdes"
+  },
+  {
+    "id": "5519991018206@s.whatsapp.net",
+    "name": "Vih Professora"
+  },
+  {
+    "id": "553196127081@s.whatsapp.net",
+    "name": "Vanderli"
+  },
+  {
+    "id": "553199456936@s.whatsapp.net",
+    "name": "jose geraldo"
+  },
+  {
+    "id": "553183326575@s.whatsapp.net",
+    "name": "Jotinha  "
+  },
+  {
+    "id": "553198352303@s.whatsapp.net",
+    "name": "Ramon Diniz"
+  },
+  {
+    "id": "553196596869@s.whatsapp.net",
+    "name": "Guilherme"
+  },
+  {
+    "id": "553182383772@s.whatsapp.net",
+    "name": "Yuri"
+  },
+  {
+    "id": "553193322069@s.whatsapp.net",
+    "name": "Matheus V"
+  },
+  {
+    "id": "553197735923@s.whatsapp.net",
+    "name": "Vinicius Parentoni"
+  },
+  {
+    "id": "553191797120@s.whatsapp.net",
+    "name": "Derik"
+  },
+  {
+    "id": "5519983569644@s.whatsapp.net",
+    "name": "Fox atendimento"
+  },
+  {
+    "id": "553197246497@s.whatsapp.net",
+    "name": "transvip turismo"
+  },
+  {
+    "id": "5511947296350@s.whatsapp.net",
+    "name": "Helton"
+  },
+  {
+    "id": "553184510587@s.whatsapp.net",
+    "name": "bruno barbosa"
+  },
+  {
+    "id": "553173121908@s.whatsapp.net",
+    "name": "Laio"
+  },
+  {
+    "id": "553194009961@s.whatsapp.net",
+    "name": "Wilker"
+  },
+  {
+    "id": "553175063484@s.whatsapp.net",
+    "name": "Kevin Eduardo"
+  },
+  {
+    "id": "553199446443@s.whatsapp.net",
+    "name": "Davi"
+  },
+  {
+    "id": "553191974878@s.whatsapp.net",
+    "name": "Missia"
+  },
+  {
+    "id": "553198779743@s.whatsapp.net",
+    "name": "Gustavo "
+  },
+  {
+    "id": "553172089816@s.whatsapp.net",
+    "name": "Hagner"
+  },
+  {
+    "id": "553175455056@s.whatsapp.net",
+    "name": "Carol Lanches"
+  },
+  {
+    "id": "5519987053944@s.whatsapp.net",
+    "name": "Carol Doretto"
+  },
+  {
+    "id": "553196194879@s.whatsapp.net",
+    "name": "Gabriel"
+  },
+  {
+    "id": "553192132099@s.whatsapp.net",
+    "name": "Henrique Gama"
+  },
+  {
+    "id": "553175145352@s.whatsapp.net",
+    "name": "Mayra"
+  },
+  {
+    "id": "553186486876@s.whatsapp.net",
+    "name": "Glayston"
+  },
+  {
+    "id": "553192760405@s.whatsapp.net",
+    "name": "Karina"
+  },
+  {
+    "id": "553194478551@s.whatsapp.net",
+    "name": "Gabriel Primo"
+  },
+  {
+    "id": "553193459278@s.whatsapp.net",
+    "name": "Arthur Primo"
+  },
+  {
+    "id": "553198564218@s.whatsapp.net",
+    "name": "Victor"
+  },
+  {
+    "id": "553171330505@s.whatsapp.net",
+    "name": "Lucas Gama "
+  },
+  {
+    "id": "553187503695@s.whatsapp.net",
+    "name": "Yasmin"
+  },
+  {
+    "id": "5524999331420@s.whatsapp.net",
+    "name": "Davi Martins"
+  },
+  {
+    "id": "553195177914@s.whatsapp.net",
+    "name": "Thaíme"
+  },
+  {
+    "id": "553195631710@s.whatsapp.net",
+    "name": "Rogério"
+  },
+  {
+    "id": "553121156420@s.whatsapp.net",
+    "name": "Ana Otoni"
+  },
+  {
+    "id": "553194403702@s.whatsapp.net",
+    "name": "Pai "
+  },
+  {
+    "id": "553196089684@s.whatsapp.net",
+    "name": "Fernanda"
+  },
+  {
+    "id": "553194112980@s.whatsapp.net",
+    "name": "bela"
+  },
+  {
+    "id": "553173406987@s.whatsapp.net",
+    "name": "Luiz Otávio"
+  },
+  {
+    "id": "553187799435@s.whatsapp.net",
+    "name": "Camila Grandini"
+  },
+  {
+    "id": "553173446672@s.whatsapp.net",
+    "name": "Lucas Andrade"
+  },
+  {
+    "id": "5521980817152@s.whatsapp.net",
+    "name": "Renan Workana"
+  },
+  {
+    "id": "553198652428@s.whatsapp.net",
+    "name": "Hagner"
+  },
+  {
+    "id": "553187072600@s.whatsapp.net",
+    "name": "Raian Gama"
+  },
+  {
+    "id": "553199470437@s.whatsapp.net",
+    "name": "Lara"
+  },
+  {
+    "id": "553180155589@s.whatsapp.net",
+    "name": "Lethícia Silva"
+  },
+  {
+    "id": "553198553157@s.whatsapp.net",
+    "name": "Arthur"
+  },
+  {
+    "id": "553198726029@s.whatsapp.net",
+    "name": "Chico Van"
+  },
+  {
+    "id": "351912087656@s.whatsapp.net",
+    "name": "Lelinho"
+  },
+  {
+    "id": "553187012134@s.whatsapp.net",
+    "name": "Pedrão"
+  },
+  {
+    "id": "553198886417@s.whatsapp.net",
+    "name": "Pedro Paulo"
+  },
+  {
+    "id": "553183346629@s.whatsapp.net",
+    "name": "Aléxia"
+  },
+  {
+    "id": "553197268094@s.whatsapp.net",
+    "name": "Gabriel Thomaz"
+  },
+  {
+    "id": "553193415784@s.whatsapp.net",
+    "name": "Bárbara"
+  },
+  {
+    "id": "553199494083@s.whatsapp.net",
+    "name": "Amor ❤️"
+  },
+  {
+    "id": "553184370573@s.whatsapp.net",
+    "name": "Tio Vicente"
+  },
+  {
+    "id": "5519999279560@s.whatsapp.net",
+    "name": "Jean Hebert"
+  },
+  {
+    "id": "553191323977@s.whatsapp.net",
+    "name": "Jean"
+  },
+  {
+    "id": "553198284809@s.whatsapp.net",
+    "name": "Gui"
+  },
+  {
+    "id": "553121156450@s.whatsapp.net",
+    "name": "Diego jotinha "
+  },
+  {
+    "id": "5522999070365@s.whatsapp.net",
+    "name": "Clodine Cabo Frio"
+  },
+  {
+    "id": "553185520306@s.whatsapp.net",
+    "name": "Carolina Padaria"
+  },
+  {
+    "id": "553183082121@s.whatsapp.net",
+    "name": "Luiz Fillipi"
+  },
+  {
+    "id": "553184420499@s.whatsapp.net",
+    "name": "Luiza"
+  },
+  {
+    "id": "553195656983@s.whatsapp.net",
+    "name": "Pedrao"
+  },
+  {
+    "id": "553194796899@s.whatsapp.net",
+    "name": "Ana Otoni"
+  },
+  {
+    "id": "5527981347065@s.whatsapp.net",
+    "name": "Alyne"
+  },
+  {
+    "id": "553198043077@s.whatsapp.net",
+    "name": "Tico"
+  },
+  {
+    "id": "553196632735@s.whatsapp.net",
+    "name": "Thiago "
+  },
+  {
+    "id": "553191967259@s.whatsapp.net",
+    "name": "Mae"
+  },
+  {
+    "id": "553175704423@s.whatsapp.net",
+    "name": "Douglas Machado"
+  },
+  {
+    "id": "553173429002@s.whatsapp.net",
+    "name": "Gabriel Alves"
+  },
+  {
+    "id": "553198183158@s.whatsapp.net",
+    "name": "Fabiano Uber "
+  },
+  {
+    "id": "553193027347@s.whatsapp.net",
+    "name": "Gustavo Vargas"
+  },
+  {
+    "id": "553193622442@s.whatsapp.net",
+    "name": "Duda Gama"
+  },
+  {
+    "id": "5521994652200@s.whatsapp.net",
+    "name": "Willy Cosme"
+  },
+  {
+    "id": "553196429646@s.whatsapp.net",
+    "name": "Star Burguer"
+  },
+  {
+    "id": "553195636990@s.whatsapp.net",
+    "name": "Thiago Financeiro "
+  },
+  {
+    "id": "553186039369@s.whatsapp.net",
+    "name": "Fernandin"
+  },
+  {
+    "id": "553135031732@s.whatsapp.net",
+    "name": "Gama Recepcao "
+  },
+  {
+    "id": "553191706070@s.whatsapp.net",
+    "name": "Warley"
+  },
+  {
+    "id": "553192832279@s.whatsapp.net",
+    "name": "Jefin"
+  },
+  {
+    "id": "553191308959@s.whatsapp.net",
+    "name": "Alex"
+  },
+  {
+    "id": "553188507463@s.whatsapp.net",
+    "name": "Thiago"
+  },
+  {
+    "id": "553175646312@s.whatsapp.net",
+    "name": "Matheus Henrique"
+  },
+  {
+    "id": "553173650934@s.whatsapp.net",
+    "name": "Kaio Dias"
+  },
+  {
+    "id": "553198074815@s.whatsapp.net",
+    "name": "Lucas Carvalho"
+  },
+  {
+    "id": "5522996164751@s.whatsapp.net",
+    "name": "POUSADA Vento Leste"
+  },
+  {
+    "id": "553191868733@s.whatsapp.net",
+    "name": "N Sei"
+  },
+  {
+    "id": "553188791709@s.whatsapp.net",
+    "name": "Tati"
+  },
+  {
+    "id": "553195938978@s.whatsapp.net",
+    "name": "Gustavo"
+  },
+  {
+    "id": "5511930025616@s.whatsapp.net",
+    "name": "Voe Mais"
+  },
+  {
+    "id": "554896502518@s.whatsapp.net",
+    "name": "Céu"
+  },
+  {
+    "id": "553185324655@s.whatsapp.net",
+    "name": "Tia Leninha"
+  },
+  {
+    "id": "553171565507@s.whatsapp.net",
+    "name": "Cadu "
+  },
+  {
+    "id": "553192320882@s.whatsapp.net",
+    "name": "Gabriel Calazans"
+  },
+  {
+    "id": "553184049291@s.whatsapp.net",
+    "name": "Lucao"
+  },
+  {
+    "id": "553195351889@s.whatsapp.net",
+    "name": "Perfume"
+  },
+  {
+    "id": "553191746533@s.whatsapp.net",
+    "name": "Pedro H."
+  },
+  {
+    "id": "553195478844@s.whatsapp.net",
+    "name": "Jose"
+  },
+  {
+    "id": "553171696570@s.whatsapp.net",
+    "name": "Ricardo"
+  },
+  {
+    "id": "553196051397@s.whatsapp.net",
+    "name": "Van"
+  },
+  {
+    "id": "5511999388991@s.whatsapp.net",
+    "name": "Felipe"
+  },
+  {
+    "id": "553187454009@s.whatsapp.net",
+    "name": "Ivan Mecânico"
+  },
+  {
+    "id": "553185817367@s.whatsapp.net",
+    "name": "Júlia Cecília"
+  },
+  {
+    "id": "5511948001268@s.whatsapp.net",
+    "name": "Daniela Renan"
+  },
+  {
+    "id": "553198604412@s.whatsapp.net",
+    "name": "Matheus Fontes"
+  },
+  {
+    "id": "553194611130@s.whatsapp.net",
+    "name": "Brandon"
+  },
+  {
+    "id": "553171849900@s.whatsapp.net",
+    "name": "Samuel "
+  },
+  {
+    "id": "553199521919@s.whatsapp.net",
+    "name": "Michel"
+  },
+  {
+    "id": "553199399798@s.whatsapp.net",
+    "name": "Jonathan Julião"
+  },
+  {
+    "id": "553190809330@s.whatsapp.net",
+    "name": "Ilzana"
+  },
+  {
+    "id": "553197685727@s.whatsapp.net",
+    "name": "Brenda"
+  },
+  {
+    "id": "553172090166@s.whatsapp.net",
+    "name": "Donizete Gama"
+  },
+  {
+    "id": "553197971315@s.whatsapp.net",
+    "name": "NoBones"
+  },
+  {
+    "id": "553182800342@s.whatsapp.net",
+    "name": "Tos"
+  },
+  {
+    "id": "553195314714@s.whatsapp.net",
+    "name": "Fael"
+  },
+  {
+    "id": "553198498944@s.whatsapp.net",
+    "name": "Barracao"
+  },
+  {
+    "id": "553199884507@s.whatsapp.net",
+    "name": "Otavio"
+  },
+  {
+    "id": "5521968614627@s.whatsapp.net",
+    "name": "Maicon Amaral Casa Arrial"
+  },
+  {
+    "id": "553198910611@s.whatsapp.net",
+    "name": "DJ Markus Lima"
+  },
+  {
+    "id": "554791405672@s.whatsapp.net",
+    "name": "Nicolas Workana"
+  },
+  {
+    "id": "553199971669@s.whatsapp.net",
+    "name": "Edson Geraldo"
+  },
+  {
+    "id": "553175675346@s.whatsapp.net",
+    "name": "Wellington Júnior"
+  },
+  {
+    "id": "553187293513@s.whatsapp.net",
+    "name": "Tia Cida"
+  },
+  {
+    "id": "553173096364@s.whatsapp.net",
+    "name": "Dr Marcelo "
+  },
+  {
+    "id": "553198429370@s.whatsapp.net",
+    "name": "Betinho"
+  },
+  {
+    "id": "553192105785@s.whatsapp.net",
+    "name": "Romário"
+  },
+  {
+    "id": "553183410927@s.whatsapp.net",
+    "name": "Maria Clara "
+  },
+  {
+    "id": "5522988340108@s.whatsapp.net",
+    "name": "Humberto/ Regineli"
+  },
+  {
+    "id": "61412537253@s.whatsapp.net",
+    "name": "Fabin"
+  },
+  {
+    "id": "553188790621@s.whatsapp.net",
+    "name": "Envelope Geladeira "
+  },
+  {
+    "id": "554196498525@s.whatsapp.net",
+    "name": "Weslen"
+  },
+  {
+    "id": "5519992523649@s.whatsapp.net",
+    "name": "Fox English Escola De Idiomas"
+  },
+  {
+    "id": "553186850984@s.whatsapp.net",
+    "name": "Rodrigo Space"
+  },
+  {
+    "id": "553185616601@s.whatsapp.net",
+    "name": "Renato"
+  },
+  {
+    "id": "553195563635@s.whatsapp.net",
+    "name": "Adrieli Silva"
+  },
+  {
+    "id": "447838843562@s.whatsapp.net",
+    "name": "Carlos"
+  },
+  {
+    "id": "553193893636@s.whatsapp.net",
+    "name": "Distribuidora Beer"
+  },
+  {
+    "id": "553183627191@s.whatsapp.net",
+    "name": "Bolhão"
+  },
+  {
+    "id": "553191256471@s.whatsapp.net",
+    "name": "Thaylon"
+  },
+  {
+    "id": "553195798931@s.whatsapp.net",
+    "name": "Alemao "
+  },
+  {
+    "id": "553175624223@s.whatsapp.net",
+    "name": "Ana Julia Silva"
+  },
+  {
+    "id": "553193493675@s.whatsapp.net",
+    "name": "Henrique"
+  },
+  {
+    "id": "553196140050@s.whatsapp.net",
+    "name": "Lucas Reis"
+  },
+  {
+    "id": "553196850001@s.whatsapp.net",
+    "name": "Mariana"
+  },
+  {
+    "id": "553184142761@s.whatsapp.net",
+    "name": "Dani"
+  },
+  {
+    "id": "351962406048@s.whatsapp.net",
+    "name": "Gi Nelin"
+  },
+  {
+    "id": "5522999529682@s.whatsapp.net",
+    "name": "Juliana Cabo Frio"
+  },
+  {
+    "id": "553183140005@s.whatsapp.net",
+    "name": "arnaldo"
+  },
+  {
+    "id": "553193890047@s.whatsapp.net",
+    "name": "Comercial D Minas"
+  }
+]
