@@ -50,32 +50,32 @@ process.on("unhandledRejection", (reason, p) => {
   process.exit(1);
 });
 
- // cron.schedule("* * * * * *", async () => {
-//
-  // try {
-     // console.log("Running a job at 5 minutes at America/Sao_Paulo timezone")
-  //   await ScheduledMessagesJob();
-   //  await ScheduleMessagesGenerateJob();
-   //}
-   //catch (error) {
-    // logger.error(error);
- / / }
+// cron.schedule("* * * * * *", async () => {
+
+//   try {
+//     // console.log("Running a job at 5 minutes at America/Sao_Paulo timezone")
+//     await ScheduledMessagesJob();
+//     await ScheduleMessagesGenerateJob();
+//   }
+//   catch (error) {
+//     logger.error(error);
+//   }
 
 // });
 
- //cron.schedule("* * * * * *", async () => {
+// cron.schedule("* * * * * *", async () => {
 
- //  try {
-   //  // console.log("Running a job at 01:00 at America/Sao_Paulo timezone")
-   //  console.log("Running a job at 2 minutes at America/Sao_Paulo timezone")
-   //  await ScheduleMessagesEnvioJob();
-   //  await ScheduleMessagesEnvioForaHorarioJob()
-  // }
- //  catch (error) {
-  //   logger.error(error);
-  // }
+//   try {
+//     // console.log("Running a job at 01:00 at America/Sao_Paulo timezone")
+//     console.log("Running a job at 2 minutes at America/Sao_Paulo timezone")
+//     await ScheduleMessagesEnvioJob();
+//     await ScheduleMessagesEnvioForaHorarioJob()
+//   }
+//   catch (error) {
+//     logger.error(error);
+//   }
 
- //});
+// });
 
 initIO(server);
 gracefulShutdown(server);
