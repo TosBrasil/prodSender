@@ -15,13 +15,10 @@ const useStyles = makeStyles(theme => ({
   root: {
     display: "flex",
     flexDirection: "column",
-    alignItems: "center",
     padding: theme.spacing(1),
   },
   kanbanContainer: {
     width: "100%",
-    maxWidth: "1200px",
-    margin: "0 auto",
   },
   connectionTag: {
     background: "green",
@@ -69,7 +66,7 @@ const Kanban = () => {
   const [tickets, setTickets] = useState([]);
   const [ticketNot, setTicketNot] = useState(0);
   const [file, setFile] = useState({ lanes: [] });
-  const [startDate, setStartDate] = useState(format(new Date(), "yyyy-MM-dd"));
+  const [startDate, setStartDate] = useState(format(new Date(new Date().setDate(new Date().getDate() - 30)), "yyyy-MM-dd"));
   const [endDate, setEndDate] = useState(format(new Date(), "yyyy-MM-dd"));
 
   const jsonString = user.queues.map(queue => queue.UserQueue.queueId);
@@ -94,8 +91,8 @@ const Kanban = () => {
       const { data } = await api.get("/ticket/kanban", {
         params: {
           queueIds: JSON.stringify(jsonString),
-          startDate: startDate,
-          endDate: endDate,
+          dateStart: startDate,
+          dateEnd: endDate,
         }
       });
       setTickets(data.tickets);
@@ -269,10 +266,10 @@ const Kanban = () => {
 
   return (
     <div className={classes.root}>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '20px', width: '100%', maxWidth: '1200px' }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '20px', width: '95%', maxWidth: '95%' , marginLeft: '20px', marginTop: '20px' }}>
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <TextField
-            label="Data de início"
+            label="Data inicial"
             type="date"
             value={startDate}
             onChange={handleStartDateChange}
@@ -284,7 +281,7 @@ const Kanban = () => {
           />
           <Box mx={1} />
           <TextField
-            label="Data de fim"
+            label="Data final"
             type="date"
             value={endDate}
             onChange={handleEndDateChange}
@@ -309,7 +306,7 @@ const Kanban = () => {
             color="primary"
             onClick={handleAddConnectionClick}
           >
-            {'+ Adicionar colunas'}
+            {'+ Adicionar Fases'}
           </Button>
         )} />
       </div>
@@ -317,7 +314,7 @@ const Kanban = () => {
         <Board
           data={file}
           onCardMoveAcrossLanes={handleCardMove}
-          style={{ backgroundColor: 'rgba(252, 252, 252, 0.03)' }}
+          style={{ height: '75vh', backgroundColor: 'rgba(252, 252, 252, 0.03)' }}
         />
       </div>
     </div>

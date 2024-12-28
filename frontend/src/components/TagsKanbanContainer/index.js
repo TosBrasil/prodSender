@@ -101,7 +101,7 @@ export function TagsKanbanContainer({ ticket }) {
                     labelWidth={60}
                     value={selected}
                     labelId="tag-kanban-id"
-                    label={i18n.t("Etapa Kanban")}
+                    label={i18n.t("Fase do Kanban")}
                     onChange={onChange}
                     MenuProps={{
                         anchorOrigin: {

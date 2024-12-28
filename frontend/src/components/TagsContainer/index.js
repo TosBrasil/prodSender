@@ -128,7 +128,7 @@ export function TagsContainer({ contact }) {
                     ))
                 }
                 renderInput={(params) => (
-                    <TextField {...params} variant="outlined" placeholder="Tags" />
+                    <TextField {...params} variant="outlined" placeholder="Etiquetas" />
                 )}
                 PaperComponent={({ children }) => (
                     <Paper
