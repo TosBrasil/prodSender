@@ -189,6 +189,7 @@ const Kanban = () => {
           draggable: true,
           href: "/tickets/" + ticket.uuid,
         })),
+        style: { height: "70vh" },
       },
       ...tags.map(tag => {
         const filteredTickets = tickets.filter(ticket => {
@@ -231,7 +232,7 @@ const Kanban = () => {
             draggable: true,
             href: "/tickets/" + ticket.uuid,
           })),
-          style: { backgroundColor: tag.color, color: "white" }
+          style: { backgroundColor: tag.color, color: "white", height: "70vh" },
         };
       }),
     ];
@@ -315,6 +316,7 @@ const Kanban = () => {
           data={file}
           onCardMoveAcrossLanes={handleCardMove}
           style={{ height: '75vh', backgroundColor: 'rgba(252, 252, 252, 0.03)' }}
+          laneStyle={{ maxheight: '120px' }} // Define a largura das lanes
         />
       </div>
     </div>
