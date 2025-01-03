@@ -624,7 +624,7 @@ const WhatsAppModal = ({ open, onClose, whatsAppId }) => {
                     </div>
 
 
-                    <div className={classes.importMessage}>
+                    {/* <div className={classes.importMessage}>
                       <div className={classes.multFieldLine}>
                         <FormControlLabel
                           style={{ marginRight: 7, color: "gray" }}
@@ -787,7 +787,7 @@ const WhatsAppModal = ({ open, onClose, whatsAppId }) => {
                         </Grid>
 
                       ) : null}
-                    </div>
+                    </div> */}
                     {enableImportMessage && (
                       <span style={{ color: "red" }}>
                         {i18n.t("whatsappModal.form.importAlert")}

@@ -16,9 +16,14 @@ const useStyles = makeStyles(theme => ({
     display: "flex",
     flexDirection: "column",
     padding: theme.spacing(1),
+    maxWidth: "100vw", // Limita a largura ao tamanho da janela de visualização
+    maxHeight: "90vh", // Limita a altura ao tamanho da janela de visualização
+    overflow: "hidden", // Impede o conteúdo de ultrapassar os limites
+    boxSizing: "border-box", // Inclui o padding no tamanho total
   },
   kanbanContainer: {
     width: "100%",
+    height: "100%",
   },
   connectionTag: {
     background: "green",
@@ -144,6 +149,8 @@ const Kanban = () => {
   };
 
   const popularCards = (jsonString) => {
+
+    console.log(tickets)
     const filteredTickets = tickets.filter(ticket => ticket.tags.length === 0);
 
     const lanes = [
@@ -189,7 +196,7 @@ const Kanban = () => {
           draggable: true,
           href: "/tickets/" + ticket.uuid,
         })),
-        style: { height: "70vh" },
+        style: { maxHeight: "calc(95vh - 170px)"},
       },
       ...tags.map(tag => {
         const filteredTickets = tickets.filter(ticket => {
@@ -232,7 +239,7 @@ const Kanban = () => {
             draggable: true,
             href: "/tickets/" + ticket.uuid,
           })),
-          style: { backgroundColor: tag.color, color: "white", height: "70vh" },
+          style: { backgroundColor: tag.color, color: "white", maxHeight: "calc(95vh - 170px)"},
         };
       }),
     ];
@@ -315,8 +322,9 @@ const Kanban = () => {
         <Board
           data={file}
           onCardMoveAcrossLanes={handleCardMove}
-          style={{ height: '75vh', backgroundColor: 'rgba(252, 252, 252, 0.03)' }}
-          laneStyle={{ maxheight: '120px' }} // Define a largura das lanes
+          style={{  backgroundColor: 'rgba(252, 252, 252, 0.03)',
+            height: "calc(100vh - 170px)",
+          }}
         />
       </div>
     </div>
